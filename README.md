@@ -5,9 +5,9 @@
 
 ## General info
 The project is an example of a RESTful WebServer developed using Spring & SpringBoot.
-For a simple front-end, React was used. The application allows users to register, log in, and create/update/delete their to-do lists.
-This project is include the backend a RESTful API and a simple frontend
-	
+For a simple front-end part, React was used. 
+The application allows users to register, log in, and create/update/delete their to-do lists.
+
 ## Technologies
 Project is created with:
 
