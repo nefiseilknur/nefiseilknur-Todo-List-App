@@ -1,4 +1,4 @@
-###Todo-List-App
+### Todo-List-App
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
